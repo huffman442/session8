@@ -1,0 +1,7 @@
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\bin\Debug\GardenPlanning.exe.config
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\bin\Debug\GardenPlanning.exe
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\bin\Debug\GardenPlanning.pdb
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\obj\Debug\GardenPlanning.csprojAssemblyReference.cache
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\obj\Debug\GardenPlanning.csproj.CoreCompileInputs.cache
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\obj\Debug\GardenPlanning.exe
+C:\Users\huffm\Documents\academypgh\session8\GardenPlanning\GardenPlanning\obj\Debug\GardenPlanning.pdb

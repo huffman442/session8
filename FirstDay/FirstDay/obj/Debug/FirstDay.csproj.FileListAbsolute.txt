@@ -1,0 +1,7 @@
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\bin\Debug\FirstDay.exe.config
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\bin\Debug\FirstDay.exe
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\bin\Debug\FirstDay.pdb
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\obj\Debug\FirstDay.csprojAssemblyReference.cache
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\obj\Debug\FirstDay.csproj.CoreCompileInputs.cache
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\obj\Debug\FirstDay.exe
+C:\Users\huffm\Documents\academypgh\session8\FirstDay\FirstDay\obj\Debug\FirstDay.pdb
