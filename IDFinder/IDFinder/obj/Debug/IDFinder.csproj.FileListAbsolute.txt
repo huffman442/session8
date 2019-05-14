@@ -1,0 +1,7 @@
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\bin\Debug\IDFinder.exe.config
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\bin\Debug\IDFinder.exe
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\bin\Debug\IDFinder.pdb
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\obj\Debug\IDFinder.csprojAssemblyReference.cache
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\obj\Debug\IDFinder.csproj.CoreCompileInputs.cache
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\obj\Debug\IDFinder.exe
+C:\Users\huffm\Documents\academypgh\session8\IDFinder\IDFinder\obj\Debug\IDFinder.pdb
